@@ -1,7 +1,7 @@
 import Home from "./home.js";
 import End from "./end.js";
 import Board from "./board.js";
-import { sound } from "data/sound.js";
+import { sound } from "./../data/sound.js";
 
 
 const Game = (_ => {
