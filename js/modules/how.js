@@ -1,4 +1,4 @@
-import { sound } from "./../data/sound.js";
+import { sound } from "data/sound.js";
 import Home from "./home.js";
 
 
