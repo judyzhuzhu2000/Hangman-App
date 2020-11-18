@@ -6,7 +6,7 @@ import { sound } from "./../data/sound.js";
 
 const Game = (_ => {
     const letters = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'];
-    const words = ['apple','ball','cat','dog','elephant'];
+    const words = ['apple','ball','cat','dog','elephant','rainbow','flower','bacon','sunshine','delicious','we','the','like','flexible','careless','experience','example','ridiculous','disappointed'];
     let chosenWord;
     let guessingWord;
     let lives;
